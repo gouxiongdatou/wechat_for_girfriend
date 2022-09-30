@@ -380,7 +380,7 @@ for i in range(0,len(user_id1)):
 当前温度：{{temperature1.DATA}} 
 {{sid.DATA}} 
 距离宝贝的生日还有{{birthday_lover.DATA}}天！ 
-距离我的的生日还有{{birthday_my.DATA}}天！
+#距离我的的生日还有{{birthday_my.DATA}}天！
 我们已经在一起{{love_days.DATA}}天了！
 距离2023年元旦还有{{yd.DATA}}天 
 距离2023年春节还有{{cj.DATA}}天 
